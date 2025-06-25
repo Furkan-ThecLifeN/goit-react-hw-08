@@ -26,14 +26,14 @@ Bu proje, kullanıcıların kişisel iletişim rehberlerini yönetmelerine olana
 
 ## 🖼️ Demo
 
-🧪 [Canlı Demo (Vercel linki ekleyin)](https://your-vercel-link.vercel.app)
+🧪 https://goit-react-hw-08-theta-eight-72.vercel.app/
 
 ## ⚙️ Kurulum
 
 1. Bu repoyu klonlayın:
 
 ```bash
-git clone https://github.com/kullanici-adi/iletisim-kitabi.git
-cd iletisim-kitabi
+git clone https://github.com/Furkan-ThecLifeN/goit-react-hw-08.git
+cd goit-react-hw-08
 npm install
 npm start
